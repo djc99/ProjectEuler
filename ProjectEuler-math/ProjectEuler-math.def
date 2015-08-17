@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+    euler1
+    sumOfMultiples
+    createEuler
